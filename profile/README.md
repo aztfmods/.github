@@ -11,3 +11,4 @@ using reliable, tested and production-grade modules.
 * Release PRs are used to generate releases and tags.
 * Various linting will be enforced.
 * Each module contains multiple integration examples, which can be tested.
+* [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) are used.
