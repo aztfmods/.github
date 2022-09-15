@@ -1,5 +1,8 @@
 ## Welcome 👋
-This space is a collection of terraform repositories dedicated to azure cloud.
+This space is a collection of terraform repositories dedicated to azure cloud.  
+
+With the help of these repositories it is possible to quickly create complete workloads  
+using reliable, tested and production-grade modules.
 
 ### Principles:
 
