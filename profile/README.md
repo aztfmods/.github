@@ -3,7 +3,10 @@ This space is a collection of terraform repositories dedicated to azure cloud.
 After applying a framework like [caf enterprise scale](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale)
 there is a need to easily create workloads or projects using modules.
 
-In general the below guidelines are kept:
+In general the below guidelines and principles are followed:
 
-* each module contains one or more logical resources grouped together
-* validation is used
+* Each module contains one or more logical resources grouped together.
+* Semantic [versioning](https://semver.org/) is used based on branch name.
+* Before merging to the main branch there is required validation that must succeed.
+* Release PRs are used to generate releases and tags.
+* Various linting will be enforced to keep clean codebase.
