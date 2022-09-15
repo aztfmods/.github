@@ -1,2 +1,2 @@
 ## Welcome 👋
-this is a placeholder.
+This is a placeholder.
