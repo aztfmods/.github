@@ -1,6 +1,6 @@
 ## Welcome 👋
 This space contains a collection of terraform repositories dedicated to azure cloud.  
-With the help of this codebase, it is possible to quickly create complete workloads  
+With the help of this codebase, it will be possible to quickly create complete workloads  
 using reliable, tested and production-grade modules.
 
 ### Principles:
