@@ -10,4 +10,4 @@ effectively using innersourcing strategies.
 * [Semantic versioning](https://semver.org/) is applied based on branch name.
 * The [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) specification is enforced
 * Release PRs are used to generate releases and tags.
-* Various linting and validation is enforced.
+* Various linting and validation is applied before merging to the main branch.
