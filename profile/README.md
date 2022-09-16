@@ -14,7 +14,7 @@ effectively using innersourcing strategies.
 
 ### Principles:
 
-* No big monolith codebase for modules
-* Modules are feature rich, documented, validated and tested
-* Modules contain logical grouped resources
-* Modules contain various integrations and provide example usage
+* No big monolith codebase for modules.
+* Modules are feature rich, documented, validated and tested.
+* Modules contain logical grouped resources and have their own lifecycle.
+* Modules contain various integrations and provide example usage.
