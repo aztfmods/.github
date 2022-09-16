@@ -5,9 +5,17 @@ possible to quickly create workloads or projects using reliable, tested and prod
 This approach is ideal for teams that are adopting open source processes in order to work and collaborate more  
 effectively using innersourcing strategies.
 
-### Principles:
+### Standards:
 
 * [Semantic versioning](https://semver.org/) is applied based on branch name.
 * The [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) specification is enforced.
 * Release PRs are used to generate releases and tags.
 * Various linting and validation is applied before merging to the main branch.
+
+### Principles:
+
+* No big monolith codebase for modules
+* Modules are feature rich
+* Modules are validated and tested
+* Modules contains various integrations
+* Modules can easily be used to build real world solutions
