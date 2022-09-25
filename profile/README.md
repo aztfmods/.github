@@ -15,9 +15,7 @@ effectively using innersourcing strategies.
 ### Principles:
 
 * No big monolith codebase for modules.
-* Consistent resource naming is applied using approved abbreviations
+* Consistent resource naming is applied using azure-compliant abbreviations
 * Modules are feature rich, documented, validated and tested.
 * Modules contain logical grouped resources and have their own lifecycle.
 * Modules contain various integrations and provide example usage.
-
-If you use the abbreviations listed below, you should check out the Azure Naming Tool. It uses the abbreviations below to generate Azure-compliant names.
