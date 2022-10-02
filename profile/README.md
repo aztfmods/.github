@@ -11,6 +11,7 @@ effectively using innersourcing strategies.
 * The [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) specification is enforced.
 * Release PRs are used to generate releases and tags.
 * Various linting and validation is applied before merging to the main branch.
+* Dependencies are updated using dependabot
 
 ### Principles:
 
