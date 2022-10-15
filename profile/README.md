@@ -17,7 +17,7 @@ effectively using innersourcing strategies.
 ### Principles:
 
 * No big monolith codebase for modules.
-* Consistent resource naming is applied using azure-compliant abbreviations.
+* Consistent [resource naming](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming) is applied using azure-compliant [abbreviations](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations).
 * Modules are feature rich, documented, validated and tested.
 * Modules contain logical grouped resources and have their own lifecycle.
 * Modules contain various integrations and provide example usage.
