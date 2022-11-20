@@ -13,6 +13,7 @@ effectively using innersourcing strategies.
 * Various linting and validation is applied before merging to the main branch.
 * Reusable workflows are used.
 * Dependencies are updated using dependabot.
+* Github settings are managed by probot apps
 
 ### Principles:
 
