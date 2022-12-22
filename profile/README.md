@@ -9,7 +9,7 @@ effectively using innersourcing strategies.
 
 * [Semantic versioning](https://semver.org/) is applied based on branch name.
 * The [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) specification is enforced.
-* [Probot apps](https://probot.github.io/) are used to orchestrate github settings
+* [Probot apps](https://probot.github.io/docs/development/) are used to orchestrate github settings
 * Release PRs are used to generate releases and tags.
 * Various linting and validation is applied before merging to the main branch.
 * Reusable workflows are used.
