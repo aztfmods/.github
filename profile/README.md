@@ -2,7 +2,7 @@
 This space contains a collection of terraform repositories dedicated to azure cloud. These codebases contain  
 reliable and production-grade modules that will allow you to easily create workloads or projects in Azure.  
 
-This approach is particularly useful for teams that are embracing open source processes and seeking to work
+This approach is particularly useful for teams that are embracing open source processes and seeking to work  
 more efficiently through innersourcing strategies.
 
 ### Standards:
